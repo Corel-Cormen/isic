@@ -1,0 +1,3 @@
+[submodule "tools/hair_bezier_generator"]
+	path = tools/hair_bezier_generator
+	url = https://github.com/Corel-Cormen/hair_bezier_generator.git
